@@ -152,6 +152,6 @@ function JavaScript10() {
 
 	var info = (day[today.getDay()] + ", " + date + " " + month[today.getMonth()] + " " + year + ", " + hour + ":"+ min + "ч.");
 
-	document.getElementById("task").innerHTML = "11. Напишете скрипт, който изписва поотделно пълната дата, деня, месеца, годината, часа и минутите.";
+	document.getElementById("task").innerHTML = "10. Напишете скрипт, който изписва поотделно пълната дата, деня, месеца, годината, часа и минутите.";
 	document.getElementById("result").innerHTML = info;
 }
