@@ -1,0 +1,102 @@
+.background {
+	background-color: orangered;
+}
+
+.big {
+	float: left;
+	margin-top: 30px;
+}
+
+.mini {
+	width: 256px;
+	height: 256px;
+	margin-top: 30px;
+}
+
+.button {
+	color: white;
+	background-image: url('img/design.png');
+	background-repeat: no-repeat;
+	border-radius: 15px;
+	height: 50px;
+	margin-left: 150px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.buttons {
+	color: white;
+	border: none;
+	background: transparent;
+	font-size: 16px;
+	font-family: 'Calibri';
+	padding: 10px;
+	margin-left: 40px;
+}
+
+.buttons:focus {
+	color: black;
+	background-color: #ff9900;
+}
+
+.buttons:hover {
+	color: black;
+	background-color: #ff9900;
+}
+
+.nav {
+	background-image: url('img/design.png');
+	background-repeat: no-repeat;
+	height: 50px;
+}
+
+header {
+	margin-left: 400px;
+}
+
+.applier {
+	color: white;
+	border: 1px solid black;
+	background-image: url('img/design.png');
+	background-repeat: no-repeat;
+	border-radius: 15px;
+	font-size: 16px;
+	font-family: 'Calibri';
+	text-align: center;
+	padding: 10px;
+	margin-left: 400px;
+}
+
+.applier:hover {
+	color: black;
+}
+
+h1 {
+	color: white;
+	font-size: 25px;
+	font-family: 'Calibri';
+	text-indent: 60px;
+	margin-left: 400px;
+}
+
+p {
+	color: white;
+	border: 2px solid orange;
+	font-size: 16px;
+	font-family: 'Calibri';
+	text-align: justify;
+	text-indent: 50px;
+	width: 935px;
+	padding: 10px;
+	margin-left: 400px;
+}
+
+.sliding {
+	background: red;
+	width: 100%;
+	height: 500px;
+}
+
+.cropped {
+	height: 5px;
+}

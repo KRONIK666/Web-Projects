@@ -1,0 +1,454 @@
+@media only screen and (max-width: 480px) {
+	html {
+		background-image: url('images/background.png');
+	}
+
+	#nav {
+		float: left;
+		width: 100%;
+		margin-left: -45px;
+	}
+
+	ul#nav li {
+		background-color: #c2cfe2;
+		border-color: white;
+		border-style: solid;
+		border-radius: 30px 0 30px 0;
+		border-width: 2px;
+		margin-bottom: 10px;
+		list-style: none;
+	}
+
+	ul#nav li a {
+		color: black;
+		display: block;
+		font-size: 23px;
+		font-family: "Goudy Old Style";
+		text-align: center;
+		text-decoration: none;
+		padding: 10px;
+	}
+
+	.wrapper {
+		margin: auto 0;
+		width: 100%;
+	}
+
+	header {
+		float: left;
+		background: #344c96;
+		background: -webkit-linear-gradient(#344c96, #5d89ae);
+		background: -o-linear-gradient(#344c96, #5d89ae);
+		background: -moz-linear-gradient(#344c96, #5d89ae);
+		background: linear-gradient(#344c96, #5d89ae);
+		height: 250px;
+		width: 100%;
+		margin: 0 auto;
+		margin-bottom: 10px;
+	}
+
+	.title-image {
+		margin-top: 10px;
+		width: 62%;
+	}
+
+	.title {
+		color: white;
+		font-size: 12px;
+		font-family: "Goudy Old Style";
+		text-align: right;
+		margin-top: -250px;
+		margin-right: 20px;
+	}
+
+	#site-content {
+		padding: 20px 0 0 0;
+	}
+
+	#site-content p {
+		font-size: 13px;
+	}
+
+	h2 {
+		font-family: "Goudy Old Style";
+	}
+
+	#content-1 {
+		clear: both;
+		display: block;
+		float: left;
+		margin-left: 0;
+		width: 100%;
+	}
+
+	#content-1 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+	}
+
+	#content-2 {
+		clear: both;
+		display: block;
+		float: left;
+		margin-left: 0;
+		width: 100%;
+	}
+
+	#content-2 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+	}
+
+	#content-3 {
+		clear: both;
+		display: block;
+		float: left;
+		margin-left: 0;
+		width: 100%;
+	}
+
+	#content-3 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+	}
+
+	#content-4 {
+		clear: both;
+		display: block;
+		float: left;
+		margin-left: 0;
+		width: 100%;
+	}
+
+	#content-4 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+	}
+
+	#site-content img {
+		border: 2px solid #333;
+	}
+
+	footer {
+		float: left;
+		background: #5e7dac;
+		border-color: white;
+		border-style: solid;
+		border-radius: 20px 0 20px 0;
+		border-width: 2px;
+		height: 65px;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	footer p {
+		font-size: 11px;
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 481px) {
+	html {
+		background-image: url('images/background.png');
+	}
+
+	#nav {
+		float: left;
+		margin-left: -45px;
+	}
+
+	ul#nav li {
+		float: left;
+		background-color: #c2cfe2;
+		border-color: white;
+		border-style: solid;
+		border-radius: 25px 0 25px 0;
+		border-width: 2px;
+		margin: 5px;
+		list-style: none;
+	}
+
+	ul#nav li a {
+		color: black;
+		display: block;
+		font-size: 23px;
+		font-family: "Goudy Old Style";
+		text-decoration: none;
+		padding: 10px;
+	}
+
+	.wrapper {
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	header {
+		float: left;
+		background: #344c96;
+		background: -webkit-linear-gradient(#344c96, #5d89ae);
+		background: -o-linear-gradient(#344c96, #5d89ae);
+		background: -moz-linear-gradient(#344c96, #5d89ae);
+		background: linear-gradient(#344c96, #5d89ae);
+		height: 400px;
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	.title-image {
+		margin-top: 10px;
+	}
+
+	.title {
+		color: white;
+		font-size: 18px;
+		font-family: "Goudy Old Style";
+		text-align: right;
+		margin-top: -410px;
+		margin-right: 40px;
+	}
+
+	#site-content p {
+		font-size: 13px;
+	}
+
+	h2 {
+		font-family: "Goudy Old Style";
+	}
+
+	#content-1 {
+		clear: both;
+		display: block;
+		float: left;
+		margin-left: 0;
+		width: 23.0769%;
+	}
+
+	#content-1 img {
+		float: none;
+		margin-top: 0px;
+		margin-bottom: 1em;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	#content-2 {
+		clear: none;
+		display: block;
+		float: left;
+		margin-left: 2.5641%;
+		width: 23.0769%;
+	}
+
+	#content-2 img {
+		float: none;
+		margin-top: 0px;
+		margin-bottom: 1em;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	#content-3 {
+		clear: none;
+		display: block;
+		float: left;
+		margin-left: 2.5641%;
+		width: 23.0769%;
+	}
+
+	#content-3 img {
+		float: none;
+		margin-top: 0px;
+		margin-bottom: 1em;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	#content-4 {
+		clear: none;
+		display: block;
+		float: left;
+		margin-left: 2.5641%;
+		width: 23.0769%;
+	}
+
+	#content-4 img {
+		float: none;
+		margin-top: 0px;
+		margin-bottom: 1em;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	#site-content img {
+		border: 2px solid #333;
+	}
+
+	footer {
+		float: left;
+		background: #5e7dac;
+		border-color: white;
+		border-style: solid;
+		border-radius: 20px 0 20px 0;
+		border-width: 2px;
+		height: 65px;
+		width: 100%;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+
+	footer p {
+		font-size: 11px;
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 769px) {
+	html {
+		background-image: url('images/background.png');
+	}
+
+	ul#nav li {
+		float: left;
+		background-color: #c2cfe2;
+		border-color: white;
+		border-style: solid;
+		border-radius: 25px 0 25px 0;
+		border-width: 2px;
+		margin: 5px;
+		list-style: none;
+	}
+
+	ul#nav li a {
+		color: black;
+		display: block;
+		font-size: 23px;
+		font-family: "Goudy Old Style";
+		text-decoration: none;
+		padding: 10px;
+	}
+
+	.wrapper {
+		margin: 0 auto;
+		max-width: 1280px;
+	}
+
+	header {
+		background: #344c96;
+		background: -webkit-linear-gradient(#344c96, #5d89ae);
+		background: -o-linear-gradient(#344c96, #5d89ae);
+		background: -moz-linear-gradient(#344c96, #5d89ae);
+		background: linear-gradient(#344c96, #5d89ae);
+		height: 400px;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+
+	.title-image {
+		margin-top: 10px;
+	}
+
+	.title {
+		color: white;
+		font-size: 25px;
+		font-family: "Goudy Old Style";
+		text-align: right;
+		margin-right: 40px;
+	}
+
+	#site-content {
+		margin: 0 auto;
+		padding: 20px 0 0 0;
+	}
+
+	#site-content p {
+		font-size: 15px;
+	}
+
+	h2 {
+		font-family: "Goudy Old Style";
+	}
+
+	#content-1 {
+		clear: both;
+		display: block;
+		float: left;
+		margin-left: 0;
+		width: 626px;
+	}
+
+	#content-1 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+		padding: 1em;
+	}
+
+	#content-2 {
+		clear: none;
+		display: block;
+		float: left;
+		margin-left: 26px;
+		width: 626px;
+	}
+
+	#content-2 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+		padding: 1em;
+	}
+
+	#content-3 {
+		clear: both;
+		display: block;
+		float: left;
+		margin-left: 0;
+		width: 626px;
+	}
+
+	#content-3 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+		padding: 1em;
+	}
+
+	#content-4 {
+		clear: none;
+		display: block;
+		float: left;
+		margin-left: 26px;
+		width: 626px;
+	}
+
+	#content-4 img {
+		float: right;
+		margin-bottom: 0.8em;
+		margin-left: 0.8em;
+		padding: 1em;
+	}
+
+	#site-content img {
+		border: 2px solid #333;
+	}
+
+	footer {
+		background: #5e7dac;
+		border-color: white;
+		border-style: solid;
+		border-radius: 20px 0 20px 0;
+		border-width: 2px;
+		height: 65px;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+
+	footer p {
+		font-size: 12px;
+		text-align: center;
+	}
+}

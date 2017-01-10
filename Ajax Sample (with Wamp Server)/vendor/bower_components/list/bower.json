@@ -1,0 +1,18 @@
+{
+  "name": "list",
+  "homepage": "https://github.com/jumplee/list",
+  "authors": [
+    "jumplee <liyuntao09@gmail.com>"
+  ],
+  "description": "A simple list for paging with easy API. Based on Jquery",
+  "main": "./dist/list.js",
+  "moduleType": [],
+  "keywords": [
+    "List",
+    "Ajax"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

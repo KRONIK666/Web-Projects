@@ -1,0 +1,34 @@
+.jssorbullets {
+  position: absolute;
+}
+
+.jssorbullets div, .jssorbullets div:hover, .jssorbullets .av {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background: url('../img/bullets.png') no-repeat;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.jssorbullets div { background-position: -7px -7px; }
+.jssorbullets div:hover, .jssorbullets .av:hover { background-position: -37px -7px; }
+.jssorbullets .av { background-position: -67px -7px; }
+.jssorbullets .dn, .jssorbullets .dn:hover { background-position: -97px -7px; }
+
+.jssora22l, .jssora22r {
+  display: block;
+  position: absolute;
+  width: 40px;
+  height: 58px;
+  cursor: pointer;
+  background: url('../img/sliders.png') center center no-repeat;
+  overflow: hidden;
+}
+
+.jssora22l { background-position: -10px -31px; }
+.jssora22r { background-position: -70px -31px; }
+.jssora22l:hover { background-position: -130px -31px; }
+.jssora22r:hover { background-position: -190px -31px; }
+.jssora22l.jssora22ldn { background-position: -250px -31px; }
+.jssora22r.jssora22rdn { background-position: -310px -31px; }

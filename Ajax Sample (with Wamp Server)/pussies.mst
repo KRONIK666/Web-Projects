@@ -1,0 +1,6 @@
+<div class="image-grid-item image-set">
+	<header>
+		<h3 class="pussy-name">{{ name }}</h3>
+	</header>
+	<a href="{{ image }}" data-lightbox="{{ name }}"><img src="{{ image }}"/></a>
+</div>
