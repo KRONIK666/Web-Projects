@@ -1,0 +1,26 @@
+.navigation {
+	background-color: @base-dark;
+	margin-top: 11px;
+
+	&-item {
+		float: left;
+		display: inline-block;
+
+		&-link {
+			color: @base-white;
+			display: block;
+			font-size: 17px;
+			line-height: 25px;
+			text-decoration: none;
+			padding: 5px 25px 0 24.67px;
+		}
+
+		&-link-active,
+		&-link:hover,
+		&-link:focus {
+			color: @base-white;
+			text-decoration: none;
+			background-color: @orange;
+		}
+	}
+}
