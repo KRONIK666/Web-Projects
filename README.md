@@ -1,6 +1,8 @@
 # Web-Projects
 Web Pages, Sites &amp; Projects (HTML, CSS &amp; JavaScript)
 
+Browser Music Player
+
 Project: eSportsBettingSystem
 
 Design the architecture and develop the functionallity of a simple xml-feed consuming web application.
