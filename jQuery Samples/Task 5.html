@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Apply Styles</title>
+	<script src='jQuery/jquery.js'></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script>
+		$(document).ready(function(){
+			$('.applier').on('click', function(){
+				$('p').css({
+					'color': 'yellow',
+					'background': 'red',
+					'font-size': '20px',
+					'font-style': 'italic',
+					'text-decoration': 'underline'
+				});
+			});
+		});
+	</script>
+</head>
+<body class="background">
+	<header>
+		<div class="nav">
+			<button class="buttons">HOME</button>
+			<button class="buttons">NEWS</button>
+			<button class="buttons">SERVICES</button>
+			<button class="buttons">PORTFOLIO</button>
+			<button class="buttons">CLIENTS</button>
+			<button class="buttons">ABOUT US</button>
+			<button class="buttons">CONTACT</button>
+		</div>
+	</header>
+
+	<h1>The History of CSS</h1>
+
+	<div><button class="applier">Apply Styles</button></div>
+
+	<p>Cascading Style Sheets, or CSS, are a way to add formatting to HTML which has extremely limited means of presentation. For example, you can only format a paragraph with either horizontal or vertical alignments in plain HTML. The addition of style sheets allow for a wide range of looks which add to the appeal of web documents. There are many options available in CSS from font choices to alignment to indentation. One of the major appeals of CSS is the ability to provide a central place to control what your pages look like. Unlike HTML, where you have to change the settings on each page manually, with CSS you can change all your web pages from a central file stored on the server. This ability and design options make CSS the best choice for web design. The first release of CSS was in 1996. This release called CSS1 was a product of the World Wide Web Consortium or the W3C. The W3C is the source for all web design schema and the standards which are used across the globe. Since the original CSS was published there have been two other schema updates provided by the Consortium. CSS2 was released in 1998 and followed by CSS3 in 1999. The schema, or plans, for CSS are divided into modules and the current version has over 40 of these units. Since the first release in 1996 CSS has become a standard for web design. Style sheets have become increasingly complicated since their first release. Each release added more capabilities to the system and broadened their appeal. Earlier versions provided the means to change fonts, set alignment, background colors and other simple formating. As the sheets system has developed you can now control almost all aspects of presentation within a web page. Many tags in HTML were deprecated and are no longer used. They were moved over to CSS to provide a central place for control of design and presentation. The path for CSS was not always easy. In the beginning most browsers did not support the standard or only supported certain parts. Even now all browsers do not support style sheets the same way and this can cause bugs when designing web pages. Many programmers have developed work-arounds and hacks to provide for different browsers. Once browsers started accepting style sheets and presenting them correctly there were other barriers to implementation. Many designers and programmers were reluctant to use the formatting abilities. The slow progress made designers hesitant to use them since it was hard to know how, or if, they would be displayed. However, they are now considered the way to go with web design.</p>
+</body>
+</html>
