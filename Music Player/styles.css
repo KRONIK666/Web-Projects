@@ -1,0 +1,21 @@
+#song_form {
+	margin: 10px 0;
+}
+
+label:after {
+	content: ":";
+}
+
+.audio {
+	width: 900px;
+	margin: 20px;
+	margin-left: 200px;
+}
+
+.grid {
+	width: 220px;
+}
+
+.text {
+	margin-left: -40px;
+}

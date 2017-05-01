@@ -1,0 +1,63 @@
+{
+	"song_0":	{
+		"name": "Voices",
+		"src": "songs/Disturbed - Voices.mp3",
+		"info": "So, are you breathing
+				No, no
+				Are you breathing
+				So, are you breathing
+				No",
+		"artist": "Disturbed"
+	},
+
+	"song_1":	{
+		"name": "Dead Memories",
+		"src": "songs/SlipKnot - Dead Memories.mp3",
+		"info": "With dead memories in my heart
+				Dead memories in my heart
+				Dead memories in my heart",
+		"artist": "SlipKnot"
+	},
+
+	"song_2":	{
+		"name": "My Plague",
+		"src": "songs/SlipKnot - My Plague.mp3",
+		"info": "I'm in conniptions for the final act you came here for
+				The one derivative you manage is the one I abhor
+				I need a minute to elaborate for everyone the
+				Everyday bullshit things that you have done",
+		"artist": "SlipKnot"
+	},
+
+	"song_3":	{
+		"name": "The Devil In I",
+		"src": "songs/SlipKnot - The Devil In I.mp3",
+		"info": "Step inside, See The Devil In I
+				Too many times, we've let it come to this
+				Step inside, See The Devil In I
+				You'll realize I'm not your Devil anymore",
+		"artist": "SlipKnot"
+	},
+
+	"song_4":	{
+		"name": "Get Inside",
+		"src": "songs/Stone Sour - Get Inside.mp3",
+		"info": "Please: wring the blood from my hands
+				Don't pretend that you understand me
+				I don't even want you looking at me
+				Motherf*cker, GET INSIDE!
+				Get inside, get inside (motherf*cker)",
+		"artist": "Stone Sour"
+	},
+
+	"song_5":	{
+		"name": "Through Glass",
+		"src": "songs/Stone Sour - Through Glass.mp3",
+		"info": "I'm looking at you through the glass...
+				Don't know how much time has passed
+				Oh, god it feels like forever
+				But no one ever tells you that forever
+				Feels like home sitting all alone inside your head",
+		"artist": "Stone Sour"
+	}
+}
